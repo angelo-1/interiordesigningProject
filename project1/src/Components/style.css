@@ -1,0 +1,106 @@
+.topbar{
+    width:100%;
+    background-color: #212529;
+    position:relative;
+    height: 50px;
+    z-index:0;
+}
+.topbars{
+    width:100%;
+    background-color: #181818;
+    position:relative;
+    height: 40px;
+    z-index:0;
+}
+
+ .navbars{
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: -40px;
+    height:max-content;
+    background-color: #6c757d;
+    position: relative;
+    top:-40px;
+ }
+ .navit a{
+   color: #181818;
+   font-size: 20px;
+ }
+ .navit a:hover{
+   color: aliceblue;
+ }
+ .headng{
+    color: #212529;
+    font-size: 20px;
+    font-family: sans-serif;
+ }
+ .addres{
+    position: relative;
+    padding-top: 15px;
+   
+ }
+ .carohome{
+   height: 600px;
+ }
+ .footers{
+   width:100%;
+   background-color: #212529;
+   position:relative;
+   z-index:0;
+   color: white;
+   text-align: center;
+
+}
+
+/* Contact */
+.banner{
+   width:100%;
+   height:675px;
+   background-repeat: no-repeat;
+   background-size: 100% 150%;
+   text-align: center;
+
+}
+.parg{
+   margin-left: 25px;
+}
+.headngs{
+   padding-top: 25px;
+}
+
+ .corow{
+   height: auto;
+   background-color: #0d6efd;
+ }
+ .colow{
+  width:100%;
+   
+   
+ }
+ .imgow{
+   height: 400px;
+ }
+
+.banners{
+   width:100%;
+   height:100%;
+   background-repeat: no-repeat;
+   background-size: 100% 150%;
+   
+}
+
+ .forms{
+   width: 75%;
+   height: 100%;
+   border:1px solid rgb(221, 216, 216);
+   margin-left: auto;
+   margin-right: auto;
+   justify-content: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-top: 50px;
+   border-radius: 6px;
+   line-height: 49px;
+   background-color: rgba(240, 248, 255, 0.37);
+ }
